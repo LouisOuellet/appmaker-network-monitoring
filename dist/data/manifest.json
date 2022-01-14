@@ -1,0 +1,13 @@
+{
+    "repository": {
+        "name": "appmaker-network-monitoring",
+        "branch": "dev",
+        "manifest": "\/dist\/data\/manifest.json",
+        "host": {
+            "git": "git@github.com:LouisOuellet\/appmaker-network-monitoring"
+        }
+    },
+    "name": "network-monitoring",
+    "build": 2,
+    "version": "22.01-dev"
+}
